@@ -9,6 +9,10 @@
 - **Dark & Light Modes**: Switch between dark and light themes to suit your preference.
 - **Modern Minimal Design**: A clean and intuitive user interface for an optimal chat experience.
 
+### Download Links
+
+- **Android APK**: [Download APK](https://github.com/SubhajitDolai/Convo/releases/tag/v1.0.0)
+
 ## Screenshots
 
 ### Light Mode
@@ -18,7 +22,7 @@
   <img src="assets/screenshots/light_mode/chat_page.png" width="300" alt="Chat Page Light Mode" />
   <img src="assets/screenshots/light_mode/settings_page.png" width="300" alt="Settings Page Light Mode" />
   <img src="assets/screenshots/light_mode/login_page.png" width="300" alt="Login Page Light Mode" />
-  <img src="assets/screenshots/light_mode/drawer.png.png" width="300" alt="Registration Page Light Mode" />
+  <img src="assets/screenshots/light_mode/drawer.png" width="300" alt="Drawer Light Mode" />
 </div>
 
 ### Dark Mode
@@ -28,12 +32,8 @@
   <img src="assets/screenshots/dark_mode/chat_page.png" width="300" alt="Chat Page Dark Mode" />
   <img src="assets/screenshots/dark_mode/settings_page.png" width="300" alt="Settings Page Dark Mode" />
   <img src="assets/screenshots/dark_mode/login_page.png" width="300" alt="Login Page Dark Mode" />
-  <img src="assets/screenshots/dark_mode/drawer.png" width="300" alt="Registration Page Dark Mode" />
+  <img src="assets/screenshots/dark_mode/drawer.png" width="300" alt="Drawer Dark Mode" />
 </div>
-
-### Download Links
-
-- **Android APK**: [Download APK]()
 
 ## Dependencies
 
